@@ -1,0 +1,2 @@
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\obj\Release\2_Karar yapıları.csproj.AssemblyReference.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\obj\Release\2_Karar yapıları.csproj.CoreCompileInputs.cache

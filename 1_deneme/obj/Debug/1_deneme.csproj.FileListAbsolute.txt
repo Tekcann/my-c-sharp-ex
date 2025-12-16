@@ -1,0 +1,8 @@
+C:\Users\Neyca\source\repos\C#_ogreniyom\1_deneme\bin\Debug\1_deneme.exe.config
+C:\Users\Neyca\source\repos\C#_ogreniyom\1_deneme\bin\Debug\1_deneme.exe
+C:\Users\Neyca\source\repos\C#_ogreniyom\1_deneme\bin\Debug\1_deneme.pdb
+C:\Users\Neyca\source\repos\C#_ogreniyom\1_deneme\obj\Debug\1_deneme.csproj.AssemblyReference.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\1_deneme\obj\Debug\1_deneme.csproj.CoreCompileInputs.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\1_deneme\obj\Debug\1_deneme.exe
+C:\Users\Neyca\source\repos\C#_ogreniyom\1_deneme\obj\Debug\1_deneme.pdb
+C:\Users\Neyca\source\repos\C#_ogreniyom\1_deneme\obj\Debug\1_deneme.exe.config

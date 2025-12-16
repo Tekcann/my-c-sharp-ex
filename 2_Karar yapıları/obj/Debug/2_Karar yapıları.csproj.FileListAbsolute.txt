@@ -1,0 +1,8 @@
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\bin\Debug\2_Karar yapıları.exe.config
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\bin\Debug\2_Karar yapıları.exe
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\bin\Debug\2_Karar yapıları.pdb
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\obj\Debug\2_Karar yapıları.csproj.AssemblyReference.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\obj\Debug\2_Karar yapıları.csproj.CoreCompileInputs.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\obj\Debug\2_Karar yapıları.exe
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\obj\Debug\2_Karar yapıları.pdb
+C:\Users\Neyca\source\repos\C#_ogreniyom\2_Karar yapıları\obj\Debug\2_Karar yapıları.exe.config

@@ -1,0 +1,16 @@
+C:\Users\Neyca\source\repos\C#_ogreniyom\4_Dizileer\bin\Debug\4_Dizileer.exe.config
+C:\Users\Neyca\source\repos\C#_ogreniyom\4_Dizileer\bin\Debug\4_Dizileer.exe
+C:\Users\Neyca\source\repos\C#_ogreniyom\4_Dizileer\bin\Debug\4_Dizileer.pdb
+C:\Users\Neyca\source\repos\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.csproj.AssemblyReference.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.csproj.CoreCompileInputs.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.exe
+C:\Users\Neyca\source\repos\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.pdb
+C:\Users\Neyca\source\repos\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.exe.config
+C:\Users\Neyca\Desktop\mesleki raporlar ve proje dosyaları\C#\C#_ogreniyom\4_Dizileer\bin\Debug\4_Dizileer.exe.config
+C:\Users\Neyca\Desktop\mesleki raporlar ve proje dosyaları\C#\C#_ogreniyom\4_Dizileer\bin\Debug\4_Dizileer.exe
+C:\Users\Neyca\Desktop\mesleki raporlar ve proje dosyaları\C#\C#_ogreniyom\4_Dizileer\bin\Debug\4_Dizileer.pdb
+C:\Users\Neyca\Desktop\mesleki raporlar ve proje dosyaları\C#\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.csproj.AssemblyReference.cache
+C:\Users\Neyca\Desktop\mesleki raporlar ve proje dosyaları\C#\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.exe.config
+C:\Users\Neyca\Desktop\mesleki raporlar ve proje dosyaları\C#\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.csproj.CoreCompileInputs.cache
+C:\Users\Neyca\Desktop\mesleki raporlar ve proje dosyaları\C#\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.exe
+C:\Users\Neyca\Desktop\mesleki raporlar ve proje dosyaları\C#\C#_ogreniyom\4_Dizileer\obj\Debug\4_Dizileer.pdb

@@ -1,0 +1,8 @@
+C:\Users\Neyca\source\repos\C#_ogreniyom\3_Döngüler\bin\Debug\3_Döngüler.exe.config
+C:\Users\Neyca\source\repos\C#_ogreniyom\3_Döngüler\bin\Debug\3_Döngüler.exe
+C:\Users\Neyca\source\repos\C#_ogreniyom\3_Döngüler\bin\Debug\3_Döngüler.pdb
+C:\Users\Neyca\source\repos\C#_ogreniyom\3_Döngüler\obj\Debug\3_Döngüler.csproj.AssemblyReference.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\3_Döngüler\obj\Debug\3_Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\Neyca\source\repos\C#_ogreniyom\3_Döngüler\obj\Debug\3_Döngüler.exe
+C:\Users\Neyca\source\repos\C#_ogreniyom\3_Döngüler\obj\Debug\3_Döngüler.pdb
+C:\Users\Neyca\source\repos\C#_ogreniyom\3_Döngüler\obj\Debug\3_Döngüler.exe.config

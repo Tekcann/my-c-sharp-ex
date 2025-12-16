@@ -1,0 +1,8 @@
+C:\Users\Neyca\Desktop\C#_ogreniyom\5_Foreach\bin\Debug\5_Foreach.exe.config
+C:\Users\Neyca\Desktop\C#_ogreniyom\5_Foreach\bin\Debug\5_Foreach.exe
+C:\Users\Neyca\Desktop\C#_ogreniyom\5_Foreach\bin\Debug\5_Foreach.pdb
+C:\Users\Neyca\Desktop\C#_ogreniyom\5_Foreach\obj\Debug\5_Foreach.csproj.AssemblyReference.cache
+C:\Users\Neyca\Desktop\C#_ogreniyom\5_Foreach\obj\Debug\5_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Neyca\Desktop\C#_ogreniyom\5_Foreach\obj\Debug\5_Foreach.exe
+C:\Users\Neyca\Desktop\C#_ogreniyom\5_Foreach\obj\Debug\5_Foreach.pdb
+C:\Users\Neyca\Desktop\C#_ogreniyom\5_Foreach\obj\Debug\5_Foreach.exe.config
