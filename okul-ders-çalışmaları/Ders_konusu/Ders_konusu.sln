@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders_konusu", "Ders_konusu\Ders_konusu.csproj", "{C7101742-6C19-453C-A9F4-559145AE058F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekrar_1", "Tekrar_1\Tekrar_1.csproj", "{66F81038-EC3D-4ACF-9063-5FC1F6B397ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekrar üj", "Tekrar üj\Tekrar üj.csproj", "{627B72CC-BE56-42AB-B825-E24850D00FA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7101742-6C19-453C-A9F4-559145AE058F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7101742-6C19-453C-A9F4-559145AE058F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7101742-6C19-453C-A9F4-559145AE058F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7101742-6C19-453C-A9F4-559145AE058F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F81038-EC3D-4ACF-9063-5FC1F6B397ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F81038-EC3D-4ACF-9063-5FC1F6B397ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F81038-EC3D-4ACF-9063-5FC1F6B397ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F81038-EC3D-4ACF-9063-5FC1F6B397ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627B72CC-BE56-42AB-B825-E24850D00FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627B72CC-BE56-42AB-B825-E24850D00FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627B72CC-BE56-42AB-B825-E24850D00FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627B72CC-BE56-42AB-B825-E24850D00FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D746180-7404-4713-B3BA-08E8558F51A9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "okul-ders", "okul-ders\okul-ders.csproj", "{6B95FD1B-0083-49DB-9C35-3D7527FD3195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tekar", "tekar\tekar.csproj", "{71D6149F-4C7B-48CA-9DD3-88739F732C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B95FD1B-0083-49DB-9C35-3D7527FD3195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B95FD1B-0083-49DB-9C35-3D7527FD3195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B95FD1B-0083-49DB-9C35-3D7527FD3195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B95FD1B-0083-49DB-9C35-3D7527FD3195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D6149F-4C7B-48CA-9DD3-88739F732C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D6149F-4C7B-48CA-9DD3-88739F732C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D6149F-4C7B-48CA-9DD3-88739F732C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D6149F-4C7B-48CA-9DD3-88739F732C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1FB669-E3EF-4DF0-B4CB-9ED221DAD874}
+	EndGlobalSection
+EndGlobal
